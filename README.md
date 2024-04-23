@@ -1,4 +1,3 @@
-Below is an example of a README.md file for a Todo List application in Python using the Tkinter module for GUI:
 
 # Python Tkinter Todo List Application
 
